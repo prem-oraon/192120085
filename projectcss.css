@@ -1,0 +1,18 @@
+h1 {
+    color:maroon;
+    margin-left: 2cm;
+    padding-top: 1cm;
+}
+
+p {
+    font-size: 1cm;
+    margin-left: 1cm;
+}
+
+ul {
+    padding-left: 2cm;
+}
+
+dd {
+    font-size: .6cm;
+}
